@@ -1,6 +1,6 @@
 package com.example.Entidade;
 
-public class Usuario {
+public class CategoriaProduto {
 
     
 }

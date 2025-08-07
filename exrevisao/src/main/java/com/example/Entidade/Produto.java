@@ -1,0 +1,6 @@
+package com.example.Entidade;
+
+public class Produto {
+
+    
+}
