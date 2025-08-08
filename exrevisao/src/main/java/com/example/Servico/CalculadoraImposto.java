@@ -1,6 +1,7 @@
-package com.example.Servico;
+package com.example.Servico.Strategy;
 
-public class CalculadoraImposto {
+import com.example.Agregado.Venda;
 
-    
+public interface CalculadoraImposto {
+    double calcular(Venda venda);
 }

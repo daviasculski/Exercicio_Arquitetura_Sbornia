@@ -1,6 +1,8 @@
 package com.example.Entidade;
 
-public class CategoriaProduto {
-
-    
+public enum CategoriaProduto {
+    ALIMENTICIOS,
+    AUTOMOTIVOS,
+    BEBIDAS_ALCOOLICAS,
+    OUTROS
 }
